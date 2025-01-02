@@ -1,0 +1,20 @@
+Quais moedas o conversor irá suportar?
+    Dolar
+    Real
+    Euro
+    Libra  
+    Franco Suíço
+    Peso Argentino
+
+Como os dados de taxa de câmbio serão obtidos?
+    API em tempo Real
+
+API
+    ExchangeRate-API
+    Chave API: d8af87726095b44fcd330b67
+
+Fluxo do programa:
+    Entrada do usuário (Moeda de origem, Moeda de destino e valor)
+    Fazer a requisição à API
+    Mostrar o resultado convertido
+
