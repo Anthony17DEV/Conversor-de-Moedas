@@ -1,6 +1,3 @@
-Claro! Aqui está um exemplo de um **README** para o seu projeto de conversor de moedas em Python:  
-
-```markdown
 # Conversor de Moedas em Tempo Real
 
 Este é um projeto de um conversor de moedas em Python que utiliza a API ExchangeRate-API para realizar conversões de moedas em tempo real. O usuário pode escolher a moeda de origem, a moeda de destino e o valor a ser convertido.  
